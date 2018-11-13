@@ -10,6 +10,6 @@ sudo bash -c 'echo "<html><head><title> index file!</title></head><body><a href=
 
 cd A
 
-sudo bash -c 'echo "<html><head><title> A file!</title></head><body><h1>Welcome to A!</h1></html>" >> A.html'
+sudo bash -c 'echo "<html><head><title> A file!</title></head><body><h1>Welcome to A!</h1><img src="/home/preston/Pictures/meme.jpg" width=800 height=800></body></html>" >> A.html'
 
 
